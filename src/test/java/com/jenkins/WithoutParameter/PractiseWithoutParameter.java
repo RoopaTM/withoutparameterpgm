@@ -8,7 +8,7 @@ public class PractiseWithoutParameter
 	 @Test
 	 public void teststep1Test()
 	 {
-		 Reporter.log("test case1",true);
+		 Reporter.log("test case pass");
 	 }
 	
 }
